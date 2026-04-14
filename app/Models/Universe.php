@@ -11,6 +11,7 @@ class Universe extends Model
         'company',
         'age'
     ];
+    
 
     public function superheroes()
     {
